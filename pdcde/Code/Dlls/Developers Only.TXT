@@ -1,0 +1,16 @@
+Multi-Company Support
+---------------------
+1. The regsitry file included specifies the location of the XML file to be used by all applications for connecting to the db. edit the registry file to point to where you want to keep the xml file. by default, it points to C:\
+
+
+2. in the sub main() of your application, just before you call hrmsec.cuser, insert this code
+Public MultiCo As HRMSEC.MultiCompany
+
+    'Multi-Company Check
+    Set MultiCo = New MultiCompany
+    If (MultiCo.IsMultiCompany) = -1 Then Exit Sub
+	
+
+3. then change XMLConnection application path specification to read
+
+	XMLPath = GetSetting("HRMIS", "XML", "PATH") & "HRMISConn.xml"

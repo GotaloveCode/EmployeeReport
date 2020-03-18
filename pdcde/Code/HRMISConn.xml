@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<!--To Store Database Confgs-->
+<?ConnDB Configurations?>
+<DatabaseConnection>
+    <!--The Server Name-->
+    <ServerName>dell\sql05</ServerName>
+    <!--The database-->
+    <DatabaseName>rea</DatabaseName>
+    <!--either 0 or 1 -->
+    <!--1 is used if the program should use windows authentication (trusted connection)-->
+    <!--0 is when using untrusted connections-->
+    <WinAuth>0</WinAuth>
+    <!--the username for untrusted connections-->
+    <UserID>c2E=</UserID>
+    <!--The User password-->
+    <Password>aW5maW5pdGkg</Password>
+</DatabaseConnection>

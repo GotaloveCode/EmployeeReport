@@ -1,0 +1,16 @@
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\empReporter\empReporter\obj\Debug\Interop.CRAXDDRT.dll
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\empReporter\empReporter\obj\Debug\Interop.CrystalReportViewerExportLib.dll
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\empReporter\empReporter\obj\Debug\empReporter.vbproj.ResolveComReference.cache
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\empReporter\empReporter\bin\Debug\empReporter.exe
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\empReporter\empReporter\bin\Debug\empReporter.pdb
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\empReporter\empReporter\bin\Debug\empReporter.xml
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\empReporter\empReporter\bin\Debug\Interop.CRAXDDRT.dll
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\empReporter\empReporter\bin\Debug\Interop.CrystalReportViewerExportLib.dll
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\empReporter\empReporter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\empReporter\empReporter\obj\Debug\empReporter.Form1.resources
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\empReporter\empReporter\obj\Debug\empReporter.Resources.resources
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\empReporter\empReporter\obj\Debug\empReporter.vbproj.GenerateResource.Cache
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\empReporter\empReporter\obj\Debug\empReporter.exe
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\empReporter\empReporter\obj\Debug\empReporter.xml
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\empReporter\empReporter\obj\Debug\empReporter.pdb
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\empReporter\empReporter\obj\Debug\empReporter.Form2.resources

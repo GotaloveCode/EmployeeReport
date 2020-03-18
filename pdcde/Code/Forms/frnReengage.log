@@ -1,0 +1,29 @@
+Line 88: Class Mulupi.lvButtons_H of control cmdcancel was not a loaded control class.
+Line 113: Class Mulupi.lvButtons_H of control cmdEngage was not a loaded control class.
+Line 151: Class Mulupi.lvButtons_H of control cmdReengagementInfo was not a loaded control class.
+Line 94: The property name _ExtentX in cmdcancel is invalid.
+Line 95: The property name _ExtentY in cmdcancel is invalid.
+Line 96: The property name Caption in cmdcancel is invalid.
+Line 97: The property name CapAlign in cmdcancel is invalid.
+Line 98: The property name BackStyle in cmdcancel is invalid.
+Line 108: The property name cGradient in cmdcancel is invalid.
+Line 109: The property name Mode in cmdcancel is invalid.
+Line 110: The property name Value in cmdcancel is invalid.
+Line 111: The property name cBack in cmdcancel is invalid.
+Line 119: The property name _ExtentX in cmdEngage is invalid.
+Line 120: The property name _ExtentY in cmdEngage is invalid.
+Line 121: The property name Caption in cmdEngage is invalid.
+Line 122: The property name CapAlign in cmdEngage is invalid.
+Line 123: The property name BackStyle in cmdEngage is invalid.
+Line 133: The property name cGradient in cmdEngage is invalid.
+Line 134: The property name Mode in cmdEngage is invalid.
+Line 135: The property name Value in cmdEngage is invalid.
+Line 136: The property name cBack in cmdEngage is invalid.
+Line 157: The property name _ExtentX in cmdReengagementInfo is invalid.
+Line 158: The property name _ExtentY in cmdReengagementInfo is invalid.
+Line 159: The property name Caption in cmdReengagementInfo is invalid.
+Line 160: The property name CapAlign in cmdReengagementInfo is invalid.
+Line 170: The property name cGradient in cmdReengagementInfo is invalid.
+Line 171: The property name Mode in cmdReengagementInfo is invalid.
+Line 172: The property name Value in cmdReengagementInfo is invalid.
+Line 173: The property name cBack in cmdReengagementInfo is invalid.
